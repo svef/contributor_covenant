@@ -81,6 +81,10 @@ languageCode = "hu"
 languageName = "Italiano"
 languageCode = "it"
 
+[Languages.is]
+languageName = "Íslenska"
+languageCode = "is"
+
 [Languages.ja]
 languageName = "日本語"
 languageCode = "ja"
